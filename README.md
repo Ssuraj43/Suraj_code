@@ -36,7 +36,7 @@ I'm actively working on expanding my expertise in **full-stack development** and
 
 - **LinkedIn:** (https://linkedin.com/in/suraj-thakur-cse)
 - **GitHub:** (https://github.com/Ssuraj43)
-- **Email:** (mailto:surajk94225@gmail.com)
+- **Email:** (surajk94225@gmail.com)
 
 ---
 
