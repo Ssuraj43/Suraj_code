@@ -21,7 +21,7 @@ I’ve had hands-on experience in web development, working on projects that rang
 ## 🚀 Projects
 
 - **Calculator Projects:** Collection of basic and advanced calculator applications. Check out the repos here on [GitHub](https://github.com/Ssuraj43/Simple_Calculator).
-- **[Other Project 1]**: Brief description of another project (e.g., online portfolio, weather app).
+- **[Tic-Tac-Toe project]**: Tic-Tac-Toe is a simple yet engaging two-player game where players take turns marking spaces on a 3x3 grid. The objective is to align three of your chosen symbols (either X or O) in a row, column, or diagonal before your opponent does. Check out the repos here on .[GitHub](https://github.com/Ssuraj43/Tic-Tac-Toe).
 - **[Other Project 2]**: Brief description of another project (e.g., e-commerce site, chat application).
 
 ---
