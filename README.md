@@ -20,7 +20,7 @@ I’ve had hands-on experience in web development, working on projects that rang
 
 ## 🚀 Projects
 
-- **Calculator Projects:** Collection of basic and advanced calculator applications. Check out the repos here on [GitHub](https://github.com/YourGitHubUsername).
+- **Calculator Projects:** Collection of basic and advanced calculator applications. Check out the repos here on [GitHub](https://github.com/Ssuraj43/Simple_Calculator).
 - **[Other Project 1]**: Brief description of another project (e.g., online portfolio, weather app).
 - **[Other Project 2]**: Brief description of another project (e.g., e-commerce site, chat application).
 
@@ -34,9 +34,9 @@ I'm actively working on expanding my expertise in **full-stack development** and
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/suraj-thakur-cse)
-- **GitHub:** [github.com/YourGitHubUsername](https://github.com/Ssuraj43)
-- **Email:** [your.email@example.com](mailto:surajk94225@gmail.com)
+- **LinkedIn:** (https://linkedin.com/in/suraj-thakur-cse)
+- **GitHub:** (https://github.com/Ssuraj43)
+- **Email:** (mailto:surajk94225@gmail.com)
 
 ---
 
